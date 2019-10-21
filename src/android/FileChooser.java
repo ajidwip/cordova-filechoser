@@ -1,4 +1,4 @@
-package com.panin.cordova.filechooser;
+package com.panin.cordova;
 
 import android.app.Activity;
 import android.content.Intent;
