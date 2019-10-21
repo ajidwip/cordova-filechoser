@@ -1,4 +1,4 @@
-cordova.define("com.panin.cordova.FileChooser.FileChooser", function(require, exports, module) {
+cordova.define("com.panin.cordova.filechooser.FileChooser", function(require, exports, module) {
 
 var exec = require("cordova/exec");
 

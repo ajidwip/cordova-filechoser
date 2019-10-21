@@ -2,7 +2,7 @@
 <plugin 
     xmlns="http://www.phonegap.com/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android" 
-    id="com.panin.cordova.FileChooser" 
+    id="com.panin.cordova.filechooser" 
     version="1.0.0">
     
     <engines>
@@ -19,11 +19,11 @@
 
         <config-file target="res/xml/config.xml" parent="/widget">        
             <feature name="FileChooser">
-                <param name="android-package" value="com.panin.cordova.FileChooser"/>
+                <param name="android-package" value="com.panin.cordova.filechooser.FileChooser"/>
             </feature> 
         </config-file> 
                 
-        <source-file src="src/android/FileChooser.java" target-dir="src/com/panin/cordova"/>
+        <source-file src="src/android/FileChooser.java" target-dir="src/com/panin/cordova/filechooser"/>
                         
     </platform>
     
