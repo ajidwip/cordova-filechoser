@@ -23,7 +23,7 @@
             </feature> 
         </config-file> 
                 
-        <source-file src="src/android/FileChooser.java" target-dir="src/com/panin/cordova"/>
+        <source-file src="src/android/FileChooser.java" target-dir="src/com/panin/cordova/FileChooser"/>
                         
     </platform>
     
