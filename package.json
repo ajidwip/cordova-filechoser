@@ -1,0 +1,31 @@
+{
+  "name": "com.panin.cordova.filechooser",
+  "version": "1.0.0",
+  "description": "Cordova FileChooser Plugin",
+  "cordova": {
+    "id": "com.panin.cordova.filechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajidwip/cordova-filechoser.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.8.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajidwip/cordova-filechoser/issues"
+  },
+  "homepage": "https://github.com/ajidwip/cordova-filechoser#readme"
+}
