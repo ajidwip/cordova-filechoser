@@ -1,6 +1,6 @@
 {
   "name": "com.panin.cordova.filechooser",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Cordova FileChooser Plugin",
   "cordova": {
     "id": "com.panin.cordova.filechooser",

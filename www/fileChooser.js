@@ -1,5 +1,3 @@
-cordova.define("com.panin.cordova.filechooser.FileChooser", function(require, exports, module) {
-
 var exec = require("cordova/exec");
 
 var FileChooser = function () {
@@ -15,5 +13,3 @@ FileChooser.prototype.chooseImage = function (success, failure) {
                                  };
 
 module.exports = new FileChooser();
-
-});
